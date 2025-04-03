@@ -51,3 +51,6 @@ El archivo .mp3 generado se reproduce, y una vez finalizado, se elimina automát
 ### Autor: 
 Francisco Javier García Pasadas
 [Gpasadas](https://github.com/Gpasadasfj)
+
+## Contribuciones
+Si quieres contribuir a mejorar este proyecto, siéntete libre de hacer un fork del repositorio y abrir un pull request con tus mejoras.
